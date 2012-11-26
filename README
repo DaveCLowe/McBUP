@@ -1,0 +1,1 @@
+Python script which converts McAfee quarantine files back to their native format, generates an MD5 hash, and queries the VirusTotal API for antivirus scan results.
